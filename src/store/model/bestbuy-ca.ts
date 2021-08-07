@@ -7,9 +7,9 @@ export const BestBuyCa: Store = {
       container: 'div[class*="pricingContainer"]',
       euroFormat: false,
     },
-    outOfStock: {
-      container: '.addToCartButton:disabled',
-      text: ['add to cart'],
+    inStock: {
+      container: '.addToCartButton:not(:disabled)',
+      text: ['Add to Cart'],
     },
   },
   links: [
@@ -19,6 +19,12 @@ export const BestBuyCa: Store = {
       series: 'test:series',
       url:
         'https://www.bestbuy.ca/en-ca/product/google-nest-hello-wi-fi-video-doorbell-black-white/12222651',
+    },
+    {
+      brand: 'nintendo',
+      model: 'special edition',
+      series: 'metroid dread',
+      url: 'https://www.bestbuy.ca/en-ca/product/metroid-dread-special-edition-switch/15554503',
     },
     {
       brand: 'msi',

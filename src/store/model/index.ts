@@ -130,6 +130,7 @@ import {Store} from './store';
 import {StormComputers} from './storm';
 import {Target} from './target';
 import {TescoIE} from './tesco-ie';
+import {TheSource} from './thesource';
 import {TopAchat} from './topachat';
 import {ToysRUs} from './toysrus';
 import {Umart} from './umart';
@@ -277,6 +278,7 @@ export const storeList = new Map([
   [Target.name, Target],
   [TescoIE.name, TescoIE],
   [TopAchat.name, TopAchat],
+  [TheSource.name, TheSource],
   [ToysRUs.name, ToysRUs],
   [Umart.name, Umart],
   [Unieuro.name, Unieuro],

@@ -33,6 +33,14 @@ export const Amazon: Store = {
   },
   links: [
     {
+      brand: 'nintendo',
+      cartUrl:
+        'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B097B15RT8&Quantity.1=1',
+      model: 'special edition',
+      series: 'metroid dread',
+      url: 'https://www.amazon.com/dp/B097B15RT8',
+    },
+    {
       brand: 'test:brand',
       cartUrl:
         'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B089KV4YYX&Quantity.1=1',

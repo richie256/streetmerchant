@@ -19,6 +19,12 @@ export const Target: Store = {
   },
   links: [
     {
+      brand: 'nintendo',
+      model: 'special edition',
+      series: 'metroid dread',
+      url: 'https://www.target.com/p/metroid-dread-special-edition-nintendo-switch/-/A-83757259',
+    },
+    {
       brand: 'sony',
       model: 'ps5 console',
       series: 'sonyps5c',

@@ -20,6 +20,12 @@ export const WalmartCa: Store = {
         'https://www.walmart.ca/en/ip/sandisk-64g-ultra-sdxc-uhs-1-memory-card-80mbs-c10-u1-full-hd-sd-card-sdsdunc-064g-cw6in/6000200452075',
     },
     {
+      brand: 'nintendo',
+      model: 'special edition',
+      series: 'metroid dread',
+      url: 'https://www.walmart.ca/en/ip/metroid-dread-special-edition-nintendo-switch/6000203545124',
+    },
+    {
       brand: 'sony',
       model: 'ps5 console',
       series: 'sonyps5c',

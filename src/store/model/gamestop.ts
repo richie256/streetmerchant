@@ -31,6 +31,12 @@ export const Gamestop: Store = {
         'https://www.gamestop.com/nav-pc-hardware-desktops/products/clx-set-tgmsetgxe9600bm-gaming-desktop/11096665',
     },
     {
+      brand: 'nintendo',
+      model: 'special edition',
+      series: 'metroid dread',
+      url: 'https://www.gamestop.com/video-games/nintendo-switch/games/products/metroid-dread-special-edition---nintendo-switch/11149359.html',
+    },
+    {
       brand: 'asus',
       model: 'tuf oc',
       series: '3080',

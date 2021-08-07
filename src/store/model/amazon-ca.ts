@@ -29,6 +29,14 @@ export const AmazonCa: Store = {
       url: 'https://www.amazon.ca/dp/B07PBLD2MX',
     },
     {
+      brand: 'nintendo',
+      cartUrl:
+        'https://www.amazon.ca/gp/aws/cart/add.html?ASIN.1=B097B15RT8&Quantity.1=1',
+      model: 'special edition',
+      series: 'metroid dread',
+      url: 'https://www.amazon.ca/dp/B097B15RT8',
+    },
+    {
       brand: 'msi',
       cartUrl:
         'https://www.amazon.ca/gp/aws/cart/add.html?ASIN.1=B08KWN2LZG&Quantity.1=1',

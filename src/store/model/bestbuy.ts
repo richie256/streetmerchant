@@ -15,6 +15,13 @@ export const BestBuy: Store = {
   links: [
     {
       brand: 'test:brand',
+      cartUrl: 'https://api.bestbuy.com/click/-/6464104/cart',
+      model: 'test:model',
+      series: 'test:series',
+      url: 'https://api.bestbuy.com/click/-/6464104/pdp',
+    },
+    {
+      brand: 'test:brand',
       model: 'test:model',
       series: 'test:series',
       url: 'https://api.bestbuy.com/click/-/6258941/pdp',
